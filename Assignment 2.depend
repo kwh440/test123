@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1779371251 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1779372279 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q2.c
+	<stdio.h>
+	<stdlib.h>
+
+1779376489 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q3.c
+	<stdio.h>
+	<stdlib.h>
+
+1779377681 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q4.c
+	<stdio.h>
+	<stdlib.h>
+
+1779378338 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q7.c
+	<stdio.h>
+	<stdlib.h>
+
+1779378781 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q9.c
+	<stdio.h>
+	<stdlib.h>
+
+1779379070 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q9b.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1779547123 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q10.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1779547714 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q11.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdint.h>
+
+1779543727 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q01.c
+	<stdio.h>
+	<stdlib.h>
+
+1779544339 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q02.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1779544572 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q03.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1779543478 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q04.c
+	<stdio.h>
+	<stdlib.h>
+
+1779544706 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q05.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1779387620 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q09b.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1779546232 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q06.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1779546476 source:c:\users\rupik\onedrive\desktop\as20250647\assignment 1\assignment 2\q08.c
+	<stdio.h>
+	<stdlib.h>
+
